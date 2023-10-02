@@ -9,6 +9,7 @@ Crea un repositorio Git en GitHub y clonalo en tu computadora local. Luego, crea
 Crea un proyecto web de diseño libre.
 <div>
 Documentar el repositorio en el archivo README.md
+<div>
 
 # Solución
 
